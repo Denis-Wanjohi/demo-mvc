@@ -2,7 +2,7 @@
 
 ## Model
 
-Shows  generally what the model of the code dose
+Shows  generally what the model of the code does
 
 ## View
 
